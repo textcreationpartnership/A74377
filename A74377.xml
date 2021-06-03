@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additional act for the better observation of the Lords-Day, days of thanksgiving and humiliation. Die Veneris, decimo nono Aprilis, 1650. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74377</idno><idno type="EEBO-CITATION">99867771</idno>
+  <idno type="VID">169047</idno>
+  <idno type="EEBO-PROQUEST">2240954264</idno>
+  
+            <idno type="STC">Thomason E1060_98</idno>
+            <idno type="STC">ESTC R208850</idno>
+            <idno type="PROQUEST">99867771</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867771e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169047)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[98])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additional act for the better observation of the Lords-Day, days of thanksgiving and humiliation. Die Veneris, decimo nono Aprilis, 1650. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 809-817 [i.e 11] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and Iohn Field, printers to the Parliment of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 7G2: the last word of first line of text: 'effectual'; first word of line below initial: 'venting'; the last word of last full line of text: 'and'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Ornament on t.p.; initial letter; text in black letter.</note>
+                  <note>Signatures: 7G⁴ 7H² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sunday --  Early works to 1800.</term>
+               <term type="topical_term">Fasts and feasts --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169047:1"/>
+            <p>An Additional Act For the better Observation of the LORDS-DAY, DAYS OF THANKS-GIVING AND HUMILIATION.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, Decimo nono Aprilis, 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this Act be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>Iohn Field,</hi> Prin<g ref="char:EOLhyphen"/>ters to the Parliament of <hi>England,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:169047:2"/>
+            <pb n="809" facs="tcp:169047:2"/>
+            <head>An Additional Act For the better Observation of the LORDS-DAY, DAYS OF THANKS-GIVING AND HUMILIATION.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the more effectual executing of all such Laws, Statutes and Ordinances of Par<g ref="char:EOLhyphen"/>liament, for the due Observation &amp; San<g ref="char:EOLhyphen"/>ctification of the <hi>Lords-Day,</hi> days of Pub<g ref="char:EOLhyphen"/>lique Humiliation and Thanksgiving; And for the further pre<g ref="char:EOLhyphen"/>venting the prophanation thereof, It is En<g ref="char:EOLhyphen"/>acted and Declared by this present Parliament, and by the Authority of the same, That all and
+<pb n="810" facs="tcp:169047:3"/> every High Constable, Petty Constable, Head<g ref="char:EOLhyphen"/>borough, Church-warden or Overseer of the Poor or other Officers, or any of the Governors of the Company of Watermen, upon their own view or knowledge of any the offence or offences committed or done against any Article, Clause or Provision of any the said Laws, Statutes or Ordinances; and all and every person and persons whatsoever, by Warrant from any Iustice of Peace, Major, Bayliff or other Head-Officer, are hereby authorized and required to seize and secure all such Wares or Goods cryed, shewed forth or put to sale upon the days and times aforesaid, contrary to this present Act, or any Statute or Ordinance of Parliament, to the end proceedings may be thereupon had, ac<g ref="char:EOLhyphen"/>cording to the true intent and meaning of this present Act, or any the said Laws, Statutes and Ordinances. And it is further Enacted, That no Traveller, Waggoner, Butcher, Hig<g ref="char:EOLhyphen"/>ler, Drover, their or any of their Servants, shall travel or come into his or their Inn or Lodging, after Twelve of the Clock on any Saturday night; nor shall any person travel from his House, Inn or other place, till after one a clock on Munday morning, without good and urgent cause, not incurred through the neg<g ref="char:EOLhyphen"/>lect or occasion of the person so doing, to be al<g ref="char:EOLhyphen"/>lowed by any Iustice of the Peace or Head Of<g ref="char:EOLhyphen"/>ficer before whom complaint shall be made; up<g ref="char:EOLhyphen"/>on pain that every such Traveller, Waggoner, Butcher, Higler, Drover and their Servants, and also every Inn-keeper &amp; Alehouse-keeper that shall so entertain him or them, shall each of them forfeit Ten shillings for every such offence. And if any Writ, Warrant or Order (except in
+<pb n="811" facs="tcp:169047:3"/> case of Treason, Murther, Felony, or breach of the Peace, prophanation of the Lords-Day, days of Thanksgiving or Humiliation, or suspiti<g ref="char:EOLhyphen"/>on of them or either or any of them) shall be from and after the First day of <hi>May,</hi> in the year One thousand six hundred and fifty, served or exe<g ref="char:EOLhyphen"/>cuted upon any the aforesaid days, every such execution of such Writ, Warrant or Order upon the said days respectively, shall be, and is here<g ref="char:EOLhyphen"/>by declared to be of no effect; and the person or persons that shall serve or execute such Writ, Warrant or Order, or cause the same to be served or executed, shall forfeit and pay to the use of the poor of the Parish where such Offence shall be committed, Five pounds, to be levied upon his or their Goods and Chattels in maner aforesaid, rendring the overplus. And it is further Enacted and Declared by the authority aforesaid, That no person or persons shall use, imploy or travel upon the Lords-Day, or the said days of Humiliation or Thanksgiving, with any Boat, Wherry, Lighter, Barge, Horse, Coach or Sedan, ei<g ref="char:EOLhyphen"/>ther in the City of <hi>London</hi> or elsewhere (except it be to or from some place for the service of God, or upon other extraordinary occasion, to be allowed by the next Iustice of Peace to the place where the said fact shall be committed; upon pain that every such person or persons that shall use such Boat, Wherry, Lighter, Barge, Horse, Coach or Sedan, contrary to the true meaning of this present Act (except it be in the cases aforesaid) shall for every such Offence forfeit and lose the sum of Ten shil<g ref="char:EOLhyphen"/>lings; and that every Boat-man, Sedan-man, Coach-man or other person, that shall so labor
+<pb n="812" facs="tcp:169047:4"/> or travel in or with any such Boat, Wherry, Lighter, Barge, Sedan, Horse or Coach, shall forfeit for every such offence, Five shillings. And it is further Enacted and Declared, That every person and persons which upon the said Lords-Day, days of Humiliation or Thanks<g ref="char:EOLhyphen"/>giving, shall be in any Tavern, Inn, Ale<g ref="char:EOLhyphen"/>house, Tobacco-house or Shop, or Victualling-house (unless he lodge there, or be there upon some lawful or necessary occasion) to be allow<g ref="char:EOLhyphen"/>ed of by such Iudge, Iustice, or other per<g ref="char:EOLhyphen"/>son who is authorized by this Act to put the same in execution; and every person or per<g ref="char:EOLhyphen"/>sons which upon the said days shall be dancing, prophanely singing, drinking or tipling in any Tavern, Inn, Alehouse, Victualling-house, or Tobacco-house or Shop, or shall harbor or entertain any person or persons so offending; or which shall grinde or cause to be ground in any Mill, any Corn or Grain upon any the said days, except in case of necessity, to be allowed by a Iustice of the Peace, every such Offen<g ref="char:EOLhyphen"/>der shall forfeit and pay the sum of Ten shil<g ref="char:EOLhyphen"/>lings for every such offence, to be levied as afore<g ref="char:EOLhyphen"/>said. And for the more vigorous and due execution of the Laws, Statutes and Ordi<g ref="char:EOLhyphen"/>nances aforesaid, and of this present Act, It is hereby further Enacted, That every Iustice of the Peace, Head-Officer or Officers of every Town Corporate or place, and every Consta<g ref="char:EOLhyphen"/>ble, Headborough, Church-warden, Overseer of the Poor, and Governors of the Company of Watermen, and other persons authorized as aforesaid, are hereby required and enjoyn<g ref="char:EOLhyphen"/>ed to make diligent search for the discover<g ref="char:EOLhyphen"/>ing, finding out, apprehending and punishing
+<pb n="813" facs="tcp:169047:4"/> of all Offenders against this and other Laws, Ordinances and Acts made for the observation of the Lords-Day, and days of Publique Fasting and Thanks<g ref="char:EOLhyphen"/>giving: And if any the said Iustices of the Peace, and other Officers aforesaid, upon view or information of any the said offences to be committed, shall be negli<g ref="char:EOLhyphen"/>gent, or refuse to do his duty in putting this or other the said Ordinances, Laws or Acts in execution, every such Iustice of the Peace, or other Head-Officer, upon proof thereof before the Lord Chief Iu<g ref="char:EOLhyphen"/>stice of either Bench, or Lord Chief Ba<g ref="char:EOLhyphen"/>ron of the Exchequer, or before any Iudge or Iudges of Assize, by one or more wit<g ref="char:EOLhyphen"/>nesses, or by view or confession of the par<g ref="char:EOLhyphen"/>ty, shall for every such Offence incur the penalty of Five pounds, and upon refusal of payment thereof, to be levyed on his Goods or Chattels, by Warrant from the said Lord Chief Iustices, or Lord Chief Baron, Iudge or Iudges of Assize respe<g ref="char:EOLhyphen"/>ctively, by distress and sale of the Goods of every such person, returning the overplus; and every High Constable, Petty Consta<g ref="char:EOLhyphen"/>ble, Church-warden and other Officer, shall forfeit and pay for his neglect aforesaid, the sum of Twenty shillings; and for default of payment thereof, the same to be levyed by Warrant from any Iustice of the Peace, directed to the High Constable of the Hun<g ref="char:EOLhyphen"/>dred, or other Officer where the Offence shall be committed, for the levying of the said penalty by way of distress and sale of
+<pb n="814" facs="tcp:169047:5"/> the Offenders Goods, and returning the Overplus as aforesaid: And all other penalties imposed by this Act, for which no way of levying is provided by the said former Laws and Ordinances, shall be levied by Warrant from any one Iustice of Peace, Major, Bayliff or Head Offi<g ref="char:EOLhyphen"/>cer, by Distress and sale of the Offenders Goods; and for want of payment there<g ref="char:EOLhyphen"/>of, or such distress to be found, by set<g ref="char:EOLhyphen"/>ting the Offenders in the Stocks or Cage for the space of six hours. And it is like<g ref="char:EOLhyphen"/>wise Enacted and Declared, That all Iudges, Iustices of Assize, and Iustices of Peace at their Assizes or Quarter-Sessions, shall in their several and re<g ref="char:EOLhyphen"/>spective Circuits and Courts give in charge to the Grand Iury, to inquire of and pre<g ref="char:EOLhyphen"/>sent all neglects of Iustices, Constables, and other Officers in the due execution of this present Act, and other Laws, Ordinances and Statutes made for the observation of the Lords-Day, and days of Publique Fasting and Thanksgiving, who are hereby strictly commanded to pre<g ref="char:EOLhyphen"/>sent the same. And it is also hereby En<g ref="char:EOLhyphen"/>acted, That the Lord Major and Alder<g ref="char:EOLhyphen"/>men, Sheriffs and Iustices of Peace of the City of <hi>London,</hi> County of <hi>Middlesex,</hi> and City of <hi>Westminster,</hi> and Borough of <hi>South<g ref="char:EOLhyphen"/>wark,</hi> together with the Heads and Go<g ref="char:EOLhyphen"/>vernors of the several Inns of Court and Chancery; and all and every Iustice of Peace, Majors, Bayliffs, and other Head Officers, and every of them, are
+<pb n="815" facs="tcp:169047:5"/> hereby authorized and required to take a speedy and effectual course, by such means as they shall think most meet within their respective Iurisdictions, to restrain as a<g ref="char:EOLhyphen"/>foresaid the prophanation of the said days; upon pain that the Lord Major, Alder<g ref="char:EOLhyphen"/>men, Sheriffs and Iustices in <hi>London,</hi> and <hi>Middlesex,</hi> and <hi>Westminster,</hi> Heads of the se<g ref="char:EOLhyphen"/>veral Inns of Court and Chancery, Iu<g ref="char:EOLhyphen"/>stices and other Head Officers, which shall neglect to do what belongs to their se<g ref="char:EOLhyphen"/>veral duties and places therein, shall for<g ref="char:EOLhyphen"/>feit the sum of Five pounds, to be levied in such maner as the Fines imposed on Iustices of Peace for their neglects are hereby appointed to be levied as aforesaid. And it is Enacted and Declared by the authority aforesaid, That this Act be forth<g ref="char:EOLhyphen"/>with printed, and bound up together with all the former Statutes and Ordinances now in force, for observation of the Lords-Day, Publique Fasting and Thanks<g ref="char:EOLhyphen"/>giving days, and published by the Iustice of Peace, or Chief Officer or Officers a<g ref="char:EOLhyphen"/>foresaid, and read at their next Quarter-Sessions after they shall receive the same; and also by them sent unto or left at the several houses of the Ministers of the re<g ref="char:EOLhyphen"/>spective Parishes within their respective limits, who are hereby required and ap<g ref="char:EOLhyphen"/>pointed in all the Churches and Chappels within this Commonwealth, publiquely to read or cause to be read, all and every the said Statutes and Ordinances so bound up together, the next Lords-Day after he
+<pb n="816" facs="tcp:169047:6"/> or they shall receive the same, before the morning Sermon; and that afterwards once every year <hi>(viz.)</hi> Vpon the first Lords-Day in March, before the morning Ser<g ref="char:EOLhyphen"/>mon, they read or cause to be read likewise this present, and the former Acts and Ordi<g ref="char:EOLhyphen"/>nances aforesaid; the due performance where<g ref="char:EOLhyphen"/>of the said Iustices of Peace and other Head Officers are commanded to inquire after, and certifie the names of the persons making de<g ref="char:EOLhyphen"/>fault in reading and publishing the premises, acording to this present Act, to the Speaker of the Parliament, and in the intervals there<g ref="char:EOLhyphen"/>of, to the Councel of State; and the Iustices of Peace at their Quarter-Sessions, shall duly cause this Act, together with the said Statutes and Ordinances to be openly read. And it is lastly Enacted, That in any Action brought against any Iustice of Peace, Con<g ref="char:EOLhyphen"/>stable, or any other Officer or person acting or doing, or commanding to be acted or done any thing in pursuance of this or any former Law, Act or Ordinance now in force touching or concerning any the Offences or matters aforesaid, the Defendant in every such Action shall and may plead the General Issue, and give the special matter in Evidence; and upon the Non-Suit of the Plaintiff, or verdict pas<g ref="char:EOLhyphen"/>sing for the Defendant, the party Defendant shall have and recover his and their treble Costs, or at the election of such party, shall have his reparation by the Committee of Par<g ref="char:EOLhyphen"/>liament for Indempnity. And it is hereby Ordained, That all persons whatsoever shall be ayding and assisting to all Iustices of
+<pb n="817" facs="tcp:169047:6"/> Peace, Head Officers, Constables, and other Officers and persons, in the execution of this or the said former Acts and Ordinances in and concerning the premises.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>Die Veneris, Decimo nono Aprilis, <hi>1650.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Published.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
